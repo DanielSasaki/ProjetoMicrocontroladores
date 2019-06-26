@@ -4,7 +4,6 @@ Repositório para desenvolvimento e avaliação do projeto da matéria EEN251 - 
 O Projeto em si é uma Estufa automatizada, que consegue medir a temperatura, a umidade, a luminosidade e a umidade do solo, além de conseguir acionar uma bomba de agua caso a medição da umidade do solo esteja abaixo de um certo nivel.
 Utilizamos de uma conexão Bluetooth para que mesmo longe da estufa seja possivel acompanhar as medições obtidas nela.
 
-
 Projeto da Estufa{
 
   Lista de materiais
@@ -38,6 +37,12 @@ Projeto da Estufa{
         -> Para mostrar as informações da estufa.
         
 }
+
+![Estufa1](https://github.com/DanielSasaki/ProjetoMicrocontroladores/blob/master/Estufa1.jpeg)
+
+![Estufa2](https://github.com/DanielSasaki/ProjetoMicrocontroladores/blob/master/Estufa2.jpeg)
+
+![Estufa3](https://github.com/DanielSasaki/ProjetoMicrocontroladores/blob/master/Estufa3.jpeg)
 
 
 André Chioratto         13.02642-6 
