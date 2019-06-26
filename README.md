@@ -10,15 +10,15 @@ Projeto da Estufa{
   
     Sensores: 
     
-      1.Bluetooth - (18)
+      1.Bluetooth - (18) ( HC08 )
       
         -> Para receber dados da estufa.
         
-      2.Umidade do Solo - (6) 
+      2.Umidade do Solo - (6) ( Higrometro )
       
         -> Para medir a qualidade ideal do solo na estufa.
         
-      3.Temperatura - (23)
+      3.Temperatura - (23) ( DHT11 )
       
         -> Para medir a temperatura ideal para a estufa.
         
@@ -28,11 +28,11 @@ Projeto da Estufa{
         
     Atuador:
     
-      1.Bomba de Água - (12) 
+      1.Bomba de Água - (12) ( DC-JT160 )
       
         -> Para controlar o nível de água atuante no solo.
         
-      2.Display OLED - (25)
+      2.Display OLED - (25) 
       
         -> Para mostrar as informações da estufa.
         
